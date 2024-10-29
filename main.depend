@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1727879773 source:c:\users\rojal\onedrive\desktop\snake\main\main.cpp
+	<iostream>
+	<conio.h>
+	<list>
+	<time.h>
+	"constants.h"
+	"console.h"
+
+1727879373 c:\users\rojal\onedrive\desktop\snake\main\constants.h
+	<utility>
+	<string>
+	<vector>
+	<list>
+
+1727876740 c:\users\rojal\onedrive\desktop\snake\main\console.h
+	<windows.h>
+	"constants.h"
+
+1728033024 source:c:\users\vujov\onedrive\desktop\programiranje\c++\snake\main\main.cpp
+	<iostream>
+	<conio.h>
+	<list>
+	<time.h>
+	"constants.h"
+	"console.h"
+
+1729001511 c:\users\vujov\onedrive\desktop\programiranje\c++\snake\main\constants.h
+	<utility>
+	<string>
+	<vector>
+	<list>
+
+1728032244 c:\users\vujov\onedrive\desktop\programiranje\c++\snake\main\console.h
+	<windows.h>
+	"constants.h"
+
